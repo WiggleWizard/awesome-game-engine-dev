@@ -19,6 +19,7 @@ A curated list of interesting engine/game libraries and projects to help with ei
 
 ## Misc
 - [clip](https://github.com/dacap/clip) - Multi-MIME support clipboard "manager".
+- [cr](https://github.com/fungos/cr) - Simple header only hotreloading library.
 
 ## Tools
 - [Figma](figma.com) - UX/UI designing tool. Great if you are making a game or application that requires some complex UI.
