@@ -2,24 +2,34 @@
 A curated list of interesting engine/game libraries and projects to help with either extending or writing your own game engine from scratch. *All libraries/projects are C/C++ and crossplatform unless otherwise stated*
 
 ## Contents
+- [Architecture](#architecture)
 - [UI](#ui)
 - [Benchmarking](#benchmarking)
+- [Scripting](#scripting)
 - [Misc](#misc)
 - [Tools](#tools)
 - [Game/App Engines](#gameapp-engines)
 - [Learning Resources](#learning-resources)
+
+## Architecture
+- [entt](https://github.com/skypjack/entt) - Popular flexible ECS library that's done right.
+- [spdlog](https://github.com/gabime/spdlog) - Super fast header only logging library that supports custom formatting and log file rotation.
 
 ## UI
 - [imgui](https://github.com/ocornut/imgui) - Very popular UI renderer.
 - [Yoga](https://yogalayout.com/) - UI layout library from Facebook.
 - [msdf-atlas-gen](https://github.com/Chlumsky/msdf-atlas-gen) - An SDF text generator to allow for modern day 2D text rendering.
 
-# Benchmarking
+## Benchmarking
 - [Tracy](https://github.com/wolfpld/tracy) - Super powerful benchmarking application that allows remote or embedded benchmarking of your application/game. Beware that it requires manual developer integration of benchmark zones.
+
+## Scripting
+- [q3vm](https://github.com/jnz/q3vm) - Quake 3 virtual machine. Language is C-style.
 
 ## Misc
 - [clip](https://github.com/dacap/clip) - Multi-MIME support clipboard "manager".
 - [cr](https://github.com/fungos/cr) - Simple header only hotreloading library.
+- [portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs) - If you need an open/save file dialog then this is a great library for that.
 
 ## Tools
 - [Figma](figma.com) - UX/UI designing tool. Great if you are making a game or application that requires some complex UI.
