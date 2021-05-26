@@ -8,6 +8,7 @@ A curated list of interesting engine/game libraries and projects to help with ei
 - [Scripting](#scripting)
 - [Misc](#misc)
 - [Tools](#tools)
+- [Base Engines](#base-engines)
 - [Game/App Engines](#gameapp-engines)
 - [Learning Resources](#learning-resources)
 
@@ -38,10 +39,16 @@ A curated list of interesting engine/game libraries and projects to help with ei
 - [Figma](figma.com) - UX/UI designing tool. Great if you are making a game or application that requires some complex UI.
 - [Aseprite](https://www.aseprite.org/) - Minimal pixel art drawing and animating tool.
 
+## Base Engines
+- [raylib](https://www.raylib.com/) - A modular minimal engine that contains almost everything you need to program a higher level engine.
+- [SFML](https://www.sfml-dev.org/) - Another minimal "engine" to get you started on a higher level engine yourself.
+
 ## Game/App Engines
 - [Godot](https://github.com/godotengine/godot) - Great FOSS game engine and a fantastic study of alternative architectures for game engines.
 - [SHADERed](https://github.com/dfranx/SHADERed) - A "minimal" shader editor/creator similar to shadertoy. Great for getting ideas on making demo scene type applications.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - A Tomb Raider engine.
+- [xray](https://github.com/OpenXRay/xray-16) - An open sourced S.T.A.L.K.E.R engine.
+- [Lumix](https://github.com/nem0/LumixEngine)
 
 ## Learning Resources
 - [The Cherno](https://www.youtube.com/user/TheChernoProject) - Has a full game engine from scratch Youtube series along with a whole host of other interesting videos.
