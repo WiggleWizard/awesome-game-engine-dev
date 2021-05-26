@@ -5,7 +5,9 @@ A curated list of interesting engine/game libraries and projects to help with ei
 - [UI](#ui)
 - [Benchmarking](#benchmarking)
 - [Misc](#misc)
-- [Game/App Engines](#engines)
+- [Tools](#tools)
+- [Game/App Engines](#gameapp-engines)
+- [Learning Resources](#learning-resources)
 
 ## UI
 - [imgui](https://github.com/ocornut/imgui) - Very popular UI renderer.
@@ -18,6 +20,13 @@ A curated list of interesting engine/game libraries and projects to help with ei
 ## Misc
 - [clip](https://github.com/dacap/clip) - Multi-MIME support clipboard "manager".
 
+## Tools
+- [Figma](figma.com) - UX/UI designing tool. Great if you are making a game or application that requires some complex UI.
+
 ## Game/App Engines
-- [Godot](https://github.com/godotengine/godot) - Fantastic study of alternative architectures for game engines.
+- [Godot](https://github.com/godotengine/godot) - Great FOSS game engine and a fantastic study of alternative architectures for game engines.
 - [SHADERed](https://github.com/dfranx/SHADERed) - A "minimal" shader editor/creator similar to shadertoy. Great for getting ideas on making demo scene type applications.
+
+## Learning Resources
+- [The Cherno](https://www.youtube.com/user/TheChernoProject) - Has a full game engine from scratch Youtube series along with a whole host of other interesting videos.
+- [Games From Scratch](https://www.youtube.com/c/gamefromscratch) - Not really a resource to learn how to make games but rather a channel dedicated to presenting game development tool news.
