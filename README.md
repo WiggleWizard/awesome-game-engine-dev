@@ -10,4 +10,4 @@ A curated list of interesting engine/game libraries and projects.
 - [msdf-atlas-gen](https://github.com/Chlumsky/msdf-atlas-gen) An SDF text generator to allow for modern day 2D text rendering.
 
 ## Misc
-- [Ruby](https://github.com/dacap/clip) A crossplatform multi-MIME support clipboard "manager".
+- [clip](https://github.com/dacap/clip) A crossplatform multi-MIME support clipboard "manager".
