@@ -22,6 +22,7 @@ A curated list of interesting engine/game libraries and projects to help with ei
 
 ## Tools
 - [Figma](figma.com) - UX/UI designing tool. Great if you are making a game or application that requires some complex UI.
+- [Aseprite](https://www.aseprite.org/) - Minimal pixel art drawing and animating tool.
 
 ## Game/App Engines
 - [Godot](https://github.com/godotengine/godot) - Great FOSS game engine and a fantastic study of alternative architectures for game engines.
