@@ -6,6 +6,7 @@ A curated list of interesting engine/game libraries and projects.
 - [Misc](#misc)
 
 ## UI
+- [imgui](https://github.com/ocornut/imgui) Crossplatform UI renderer.
 - [Yoga](https://yogalayout.com/) A C++ crossplatform UI layout library.
 - [msdf-atlas-gen](https://github.com/Chlumsky/msdf-atlas-gen) An SDF text generator to allow for modern day 2D text rendering.
 
