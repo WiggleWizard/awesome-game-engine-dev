@@ -21,6 +21,7 @@ A curated list of interesting engine/game libraries and projects to help with ei
 - [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - ImGui based transform gizmo. Good for making editors.
 - [Yoga](https://yogalayout.com/) - UI layout library from Facebook.
 - [msdf-atlas-gen](https://github.com/Chlumsky/msdf-atlas-gen) - An SDF text generator to allow for modern day 2D text rendering.
+- [RmlUi](https://github.com/mikke89/RmlUi) - An HTML/CSS type C++ library that follows the MVC paradigm with data binding.
 
 ## Benchmarking
 - [Tracy](https://github.com/wolfpld/tracy) - Super powerful benchmarking application that allows remote or embedded benchmarking of your application/game. Beware that it requires manual developer integration of benchmark zones.
